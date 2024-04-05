@@ -1,0 +1,11 @@
+a=6
+b=4
+c=float(a+b)
+print(c)
+d=22.5
+e=23.4
+f=int(d+e)
+print(f)
+m=[11,22,333,445,3,4]
+print(tuple(m))
+print(set(m))
